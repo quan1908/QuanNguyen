@@ -5,15 +5,7 @@
 
 int main(int argc, char *argv[]) 
 {
-	int r;
-	float P, S;
-	
-	printf("Nhap ban kinh r: ");
-	scanf("%d", &r);
-	
-	P = 2*r*3,14;
-	S = 3,14*r*r;
-	 printf("Chu vi hinh tron là: %f", P);
-	 printf("Dien tich hinh tron là: %f", S);
+	char line[80];
+	scanf("%[^\n]",line);
 	return 0;
 }
