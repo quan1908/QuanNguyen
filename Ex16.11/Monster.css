@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+figure {
+    color: green;
+    z-index: 3;
+}
+#container {
+    position: absolute;
+    z-index: 0;
+}
+#one {
+    position: absolute;
+    padding-top:84px;
+    padding-left: 92px;
+    padding-bottom: 98px;
+    background-image: url("img/images/frame.png");
+    width: 460px;
+    height: 448px;
+    z-index: 3;
+}
+#six {
+    position: relative;
+    overflow: hidden;
+    width: 367px;
+    height: 460px;
+    z-index: 3;
+}
+#two {
+
+    height: 172px;
+    z-index: 3;
+}
+#three {
+
+    height: 79px;
+    z-index: 3;
+}
+#four {
+
+    height: 86px;
+    z-index: 3;
+}
+#five {
+
+    height: 114px;
+    z-index: 3;
+}
+.lightning {
+    position: absolute;
+    z-index: 0;
+}
+.face{
+    position:relative;
+    left:0px;
+    top:0px;
+    z-index: 1;
+}
