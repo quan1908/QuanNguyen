@@ -1,0 +1,40 @@
+body {
+    background-image: url("CaptainAmerica-Wallpaper-5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#in1 {
+    color: red;
+}
+.img1 {
+    width: 400px;
+    height: 246px;
+}
+.in2 {
+    float: left;
+    width: 150px;
+}
+.img2 {
+    width: 100px;
+    height: 100px;
+}
+section{
+    height: 180px;
+}
+.in3 {
+    float: left;
+    width: 412px;
+    background-color: grey;
+}
+li {
+    border: 2px dotted red;
+    height: 135px;
+}
+.in4 {
+    float: right;
+    width: 1091px;
+    background-color: grey;
+}
+.in5 {
+    line-height: 45px;
+}
