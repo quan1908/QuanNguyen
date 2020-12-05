@@ -1,0 +1,3 @@
+REVOKE SELECT
+ON Employee
+FROM JOHN
